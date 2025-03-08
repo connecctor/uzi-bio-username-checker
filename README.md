@@ -12,6 +12,6 @@ We will walk you how to download the tool
 
 ( 3/8/25 - 12:37AM ⏰📅 ) v1.0 this was the release of the checker, for support join [HERE!](https://discord.gg/nfo)
 
-## 📝 | [Support Server](https://discord.gg/risking)
+## 📝 | [Support Server](https://discord.gg/nfo)
 
 If you have any issues with the tool, or are trying to contribute and are having issues with coding please contact us
